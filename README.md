@@ -22,7 +22,7 @@ I'm highly passionate about software development, science, and mathematics, I ha
 
 - 👨‍💻 All of my projects are available at my [github](https://github.com/YoAquinJs?tab=repositories) and [itch.io](https://styxgames.itch.io/).
 
-- 📄 For more details about my experience and skills, please check out my [Resume](https://linkedin.com/in/sebastian-gonzalez-certuche-40529b274).
+- 📄 For more details about my experience and skills, please check out my [Resume]([https://linkedin.com/in/sebastian-gonzalez-certuche-40529b274](https://github.com/YoAquinJs/YoAquinJs/blob/main/resume.pdf)).
 
 - 😁I'm open to new opportunities and collaborations, so feel free to connect with me!
 
